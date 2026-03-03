@@ -1,0 +1,1 @@
+# apis-gen-inventory-service
